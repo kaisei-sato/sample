@@ -1,3 +1,5 @@
 # sample
 
+Hello, Git!
+
 テスト
